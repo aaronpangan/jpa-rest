@@ -8,6 +8,7 @@ public class JpaRestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JpaRestApplication.class, args);
+
 	}
 
 }
